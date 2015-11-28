@@ -7,5 +7,7 @@ cloned repository changed sth;
 deal with the conflicts;
 cloned repository changed sth;
 
-add some feature on dev.
+add some feature on dev.//add on cloned repository.
+
+created repository add come feature on dev.
 
